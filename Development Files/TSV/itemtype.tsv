@@ -1,0 +1,50 @@
+typeid	name	att	def	hp	val	dsc
+altar	Altar	0	0	0	0	A large stone altar with ancient symbols carved in its sides. There seems to be a deep and thin vertical slit hidden among the symbols.
+antlers	Reindeer Antlers	0	0	0	60	Some use antlers for decoration, others as tools or fertilizer.
+archtool	Archeological Tools	0	0	0	0	A set of various tools used to examine artifacts in detail.
+awl	Awl	15	0	0	10	A metal spike with a wooden handle used for piercing holes in leather or even wood.
+axe	Axe	40	20	0	20	A regular axe suitable for many things like chopping down trees or hacking carcasses into more manageable chunks.
+backpack	Leather Backpack	0	0	0	150	A simple backpack made from seal leather. It is waterproof and allows the player to carry up to eight items.
+balbrand	Bálbrandr	999999	999999	999999	999999	The mythical sword of Hveðrungr. It grants immortality to the one who possesses it. In the hands of Hveðrungr the blade is said to be engulfed in flames.
+bookbilb	What to do in Bilbao: The Best Pintxos in Town	0	0	0	25	A booklet about the Basque capital’s culinary delicacies. Found in the intern’s room, on the book shelf.
+bookinca	Forgotten Pyramids of the Incas	0	0	0	50	A book about the Inca culture.
+bookviki	The Travels of Eiríkr hinn Rauði	0	0	0	50	A book describing the Viking expansion to Greenland in 986 by Erik the Red.
+budagger	Bulgarian Dagger	20	5	0	200	This ornate dagger has recently been acquired by the Bellas Artes Museum. It has curved, unclear carvings on the hilt.
+bullets	Bullets	0	0	0	10	These bullets are quite common so they can be bought from most general stores.
+club	Club	10	10	0	20	A wooden stick that is a somewhat larger at one end. Popular with hunters who do not wish to damage the pelts of the animals they kill.
+dicbulg	Bulgarian Dictionary	0	0	0	40	A Bulgarian - English - Bulgarian.
+dichindi	Hindi Dictionary	0	0	0	40	A Hindi - English - Hindi dictionary.
+dicnepal	Nepali Dictionary	0	0	0	40	A Nepali - English - Nepali dictionary.
+dicnorse	Old Norse Dictionary	0	0	0	40	An Old Norse - English dictionary that allows you to communicate in Old Norse.
+dicswahi	Swahili Dictionary	0	0	0	40	A Swahili - English - Swahili dictionary.
+divesuit	Diving Suit	0	0	0	500	A bulky leather suit with a heavy brass helmet used to dive into the depths of oceans.
+fishbait	Fish Bait	0	0	0	5	Cheap bait used when fishing with a rod.
+fishnet	Fishing Net	0	0	0	20	A medium sized fishing net suitable for manual fishing.
+fishrod	Fishing Rod	0	0	0	30	Not much more than a long stick with piece of string. At least it has a reel, albeit it looks rusty.
+fispear	Fishing Spear	35	30	0	50	Once a popular tool used in fishing has lost its usefulness with more practical modern fishing nets.
+fjorstei	Fjǫrsteinn	0	999999	0	2000	The gem gives the wearer extraordinary health and protection from all disease.
+flalight	Flashlight	0	0	0	45	A compact dynamo light that can easily be carried around.
+guthjorr	Guðhjǫrr	100	999999	0	9999999	It it said that the person who possesses it is invincible while holding it. It's a part of Hveðrungr’s mythical sword Bálbrandr but lacks the Fjǫrsteinn.
+gutknife	Gutting Knife	20	5	0	25	A specialized tool for gutting fish although a regular knife will do the job just fine.
+hikeboot	Hiking Boots	0	0	0	30	Sturdy looking brown boots with a thick rubber sole.
+kolbswor	Kolbiorn’s Sword	50	20	0	1000	The missing sword of the ghost of the viking Kolbiorn Vílgeirson. He wants it returned.
+linskin	Skin of Linnormr	0	0	0	0	Shed skin of a white lizard.
+martenit	Martenitsa	0	0	0	5	A red-and-white bracelet on the ground near Eleusa Monastery. These are traditionally handed out to friends on the 1st of March, to mark the start of spring. You might consider giving it to Monica.
+mead	Mead	0	0	30	15	Refreshing beer recovers some health.
+meat	Dried Meat	0	0	20	10	Not particularly tasty but it stays edible for a long time and provides some nutrition.
+necklace	Shaman’s Necklace	0	0	0	200	A necklace made by a strange shaman living in Greenland.
+pet	Calcified Vervet Monkey	0	0	0	0	Remains of a vervet monkey which have calcified in the salty water of Lake Natron. It once was the companion of one Zlatin Panayotov.
+revolver	Revolver	50	0	0	75	A fairly standard looking revolver.
+romvase	Romanian Vase	0	0	0	30	An ancient artifact from Romania.
+rope	Rope	0	0	0	20	A 20 meter spool of rope for general use as well as hiking.
+satchel	Leather Satchel	0	0	0	75	The player’s bag where he is able to store up to three items. 
+snoshoe	Snow Shoes	0	0	0	40	Snow shoes allow walking in deep snow if you want to keep your socks dry.
+socks	Socks	0	0	0	10	Cheap white socks with “Hiking Socks” written in the tag.
+swknife	Switch Knife	25	5	0	30	A popular tool used by hikers around the world. It has a short slightly curved blade that is turned inside the handle.
+tendon	Reindeer Tendon	0	0	0	10	A popular alternative to strings made from plant fibers.
+ticket	Train Ticket	0	0	0	60	A ticket for the train that travels between India and Nepal.
+viksword	Sword of Erik the Red	30	15	0	45	Sword once used by Erik the Red. A priceless Viking artifact.
+whetston	Whetstone	0	0	0	55	An essential tool for anyone regularly handles bladed tools.
+wolfpelt	Wolf Pelt	0	0	0	60	A tanned gray wolf skin with the fur still attached.
+wood	Firewood	0	0	0	10	Half a stere of firewood.
+zlatlett	Zlatin’s Letter	0	0	0	0	A letter hidden inside the Bulgarian Dagger, written in Old Norse to throw off unwanted readers.

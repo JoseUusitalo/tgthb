@@ -1,0 +1,1971 @@
+  Version 1.0 (2014-10-16)
+--------------------------------------------------------------------------------
+|             Tales of Gods and Treachery: The Hunt for Bálbrandr              |
+--------------------------------------------------------------------------------
+|             Alternative History Low Fantasy Interactive Fiction              |
+|                           Designed & Developed by                            |
+|                           T. K., L. S. & J. U. of                            |
+|                 of Metropolia University of Applied Sciences                 |
+--------------------------------------------------------------------------------
+ For 32/64-bit Windows NT Platforms                                 | Python 3 |
+                                                                    ------------
+
+
+Character Name: 
+Do you wish to be called Andrea Álvarez? (Y/N)
+> YES
+
+DEVELOPER TIPS
+--------------
+The game has a robust text matching system. You are not required to type in the 
+full names of objects. A small part, sometimes even a single letter, will be eno
+ugh to find the correct item, person, or location. Don't worry, the game will as
+k you to be more specific when multiple objects with similar names are found.
+
+Greeting and speaking to people is essential for learning more information about
+ certain topics and progressing in the game. Some people can be talked to multip
+le times and can even tell you new information about the same topic if talked to
+ again. Talking to people may open up new dialogue options with the same, or som
+e other person. There are some hidden locations that are not accessible until yo
+u have learned about them or about something that is there. Examine objects, peo
+ple, and locations to discover previously hidden items and additional informatio
+n. Special actions can be performed by using some objects and some things can be
+ used in combination with other objects. Be mindful of your spending, you have a
+ limited amount of money.
+
+This game has a lot of text. Sometimes more than one full screen of text is show
+n at once. If you notice a large paragraph be sure to check above it as not to m
+iss any potentially important text. All player input is prefixed with the ">" sy
+mbol and any text shown because of that command is below that line up until the 
+bottom of the console where there is another '>' symbol signifying that the game
+ is waiting for input.
+
+If you are unsure how to proceed try the "help" command or use the "tips" comman
+d to show this text again. Don't forget the "save" and "load" commands! Use "res
+tart" to begin the game again from the start.
+
+You can lose the game.
+
+
+Press Enter to continue.
+
+You are a Spanish archeology student studying at Museo de las Bellas Artes. The 
+museum has just received a new artifact, a Bulgarian Dagger, and the museum dire
+ctor Gorka Ibaiguren has asked you to take care of inspecting the dagger to dete
+rmine its age, origin and anything else of particular interest.
+
+Press Enter to continue.
+
+                 ----    Chapter I: The Hidden Letter    ----
+
+Storage Room 3
+You are at the end of a fairly dark, dimly lit oblong room. The walls are covere
+d in fragile 5th century Eastern European religious icons. The air is slightly c
+ool and humid- just enough so to maintain the wooden icons from deteriorating. A
+s you look around, you notice stands with glass boxes at the other end of the lo
+ng space. Upon closer inspection, you discover they enclose ancient artefacts: a
+ horse-shaped bronze medallion, a necklace made of dried-up grapes dipped in gol
+d, several vases and a slightly curved iron dagger with a carved wooden handle.
+
+Nobody is here and Bulgarian Dagger and Romanian Vase can be found in the area.
+There is Museo de las Bellas Artes to the northwest.
+> TAKE BULGARIAN DAGGER
+Bulgarian Dagger taken.
+> OPEN BULGARIAN DAGGER
+You screw open the handle of the dagger and a tightly rolled letter falls out!
+
+> TAKE ZLATIN'S LETTER
+Zlatin's Letter taken.
+> NORTHWEST
+
+Museo de las Bellas Artes
+This large museum was established in 1914 and has since accumulated an impressiv
+e range of artifacts (from Imperial Japan to modern Europe).
+
+Nobody is here.
+There is Intern Office to the north, Storage Room 3 to the southeast, Museum Arc
+hives to the south, and Director's Office to the northwest.
+You may travel to Bilbao Airport (Spain) and Port of Bilbao (Spain).
+> NORTHWEST
+
+Director's Office
+Gorka Ibaiguren's office depicts his two passions clearly and leaves no room for
+ doubt about his love of surf and art. While his desk is always well organised a
+nd professional, the walls reflect another side of his personality. The vigorous
+ middle-aged man has attached a turquoise and yellow surfboard on the wall, righ
+t next to a large poster of Sopelana beach. On the other side of his bureau resi
+des an even more substantial world map, with small photographs of artefacts pinn
+ed upon the locations they are from.
+
+Gorka Ibaiguren is here.
+There is Intern Office to the east, and Museo de las Bellas Artes to the southea
+st.
+> GIVE ZLATIN'S LETTER TO GORKA IBAIGUREN
+Zlatin's Letter given to Gorka Ibaiguren.
+
+The director is surprised and raises his dark eyebrows. "You found that inside t
+he Bulgarian Dagger? Fascinating! Let me inspect it more closely."
+
+"Have you read this? This is incredible:"
+Dear friend,
+I apologise for not contacting you earlier; my travels have left me little time 
+to indulge in such activities. That is why I am thinking of settling down in a m
+onastery in Burgas and leading a quiet life, away from the stress of Sofia. I en
+countered the Fjǫrsteinn on my last adventure, and with it I will be able to liv
+e long enough to truly find myself. I hope this message finds you well and healt
+hy. Hoping to have the pleasure of your visit soon,
+your fellow chess enthusiast Zlatin Panayotov
+
+P.S. Have you read my book on Erik the Red? I would like it if you sent me your 
+thoughts about it later.
+
+> TALK TO GORKA IBAIGUREN ABOUT LETTER
+
+Gorka's face lights up and he looks at you with an astonished expression. "How e
+xciting! You have to go find Mr. Panayotov and ask him to lend us the gem so we 
+can inspect it. This is an invaluable opportunity to learn about Viking history 
+and, who knows, maybe even the presence of supernatural beings! The museum will 
+finance your travels. Here's 4125 money!"
+> EAST
+
+Intern Office
+You have now entered your small office. To your right is your working station, a
+ rather small wooden desk with piles of archeology and history books. The rest o
+f the room's decor is sparse: the picturesque book shelf on the left contains no
+ more than 30 volumes and all your archeology equipment is contained within a sm
+all box on the floor, next to the shelf. In an attempt to make the office more c
+osy, you have pinned a movie poster to the wall, between the shelf and the table
+. It used to read “Rocky Balboa”, but since you are a funny fellow, it now says 
+“Rocky Bilbao.”
+
+Nobody is here and Archeological Tools, What to do in Bilbao: The Best Pintxos i
+n Town, Forgotten Pyramids of the Incas, Old Norse Dictionary, Flashlight, and T
+he Travels of Eiríkr hinn Rauði can be found in the area.
+There is Museo de las Bellas Artes to the south, and Director's Office to the we
+st.
+> TAKE FLASHLIGHT
+Flashlight taken.
+> TAKE ARCHEOLOGICAL TOOLS
+Archeological Tools taken.
+> SOUTH
+
+Museo de las Bellas Artes
+This large museum was established in 1914 and has since accumulated an impressiv
+e range of artifacts (from Imperial Japan to modern Europe).
+
+Nobody is here.
+There is Intern Office to the north, Storage Room 3 to the southeast, Museum Arc
+hives to the south, and Director's Office to the northwest.
+You may travel to Bilbao Airport (Spain) and Port of Bilbao (Spain).
+> TRAVEL TO BILBAO AIRPORT
+Traveling to Bilbao Airport.
+
+Bilbao Airport
+The Bilbao Airport is, you find, rather small but quite beautiful. It is easily 
+accessible by bus from the central Plaza Moyua. The crisp white roof is inclined
+ and rounded, which gives you the impression of being inside a vast seashell. Yo
+u walk slowly towards the gates, taking in the exquisite architecture. Since the
+ airport is quite calm, you are able to pass through the security check without 
+fuss. The indications are clear, and finding the right gate poses no problems: y
+ou are now awaiting boarding.
+
+Nobody is here.
+There is nowhere to go to.
+You may travel to Museo de las Bellas Artes and Burgas Airport (Bulgaria).
+> TRAVEL TO BURGAS AIRPORT
+You pay the standard fare of 200.
+Traveling to Burgas Airport.
+
+             ----    Chapter II: Tracking Zlatin Panayotov    ----
+
+Burgas Airport
+The second largest airport in Bulgaria is not as impressive as it sounds. The pr
+eviously white building is now a speckled gray color. Inside are rows of blue pl
+astic chairs and impatient travelers.
+
+Georgi Borisov is here and Bulgarian Dictionary can be found in the area.
+There is Zlatna livada Monastery to the east.
+You may travel to Bilbao Airport (Spain).
+> TALK TO GEORGI BORISOV ABOUT ELEUSA MONASTERY
+
+You walk to the cab and the driver opens the window. He looks at you from the fr
+ont seat. His wide smile reveals a row of dark, stained teeth. "To Eleusa Monast
+ery? Right away." He turns the key in the ignition and the car coughs loudly. "D
+id you know "Eleusa" comes from Byzantine Greek and means "the Tender?" It's pro
+bably not that interesting to you though, I'll concentrate on driving again." Ge
+orgi faces the road and the car jumps forward.
+
+Eleusa Monastery
+This monastery dates from the 6th century. While it is mainly in ruins, some par
+ts have been restored. One of its towers still stands and it can be visited. Mon
+ica lives here.
+
+Georgi Borisov and Monica are here.
+There is Archeological Museum to the south.
+> EXAMINE
+You look around the rooms in the monastery but can't seem to find a anything of 
+particular importance anywhere. You return back to where you started and notice 
+a Martenitsa made from red and white string on the floor. A mere few meters away
+ from where you originally stood. "Perhaps I should have started searching in th
+is room first rather than going to through the entire monastery." you think to y
+ourself.
+
+> TAKE MARTENITSA
+Martenitsa taken.
+> GIVE MARTENITSA TO MONICA
+Martenitsa given to Monica.
+
+The old woman smiles crookedly and her small, watery eyes twinkle in the sunligh
+t. "Oh, that is so very nice of you, thank you sweety. My name is Monica. You lo
+ok lost, my child, can I help you?"
+> TALK TO MONICA ABOUT ZLATIN PANAYOTOV
+
+"Zlatin Panayotov? Yes, I have known him. He was already an old man when I was a
+ child. I would see him by the monastery steps every evening on my way home from
+ our family shop. He would always nod, smile and wave calmly. Sometimes my mothe
+r would let me go play chess with him in Eleusa. He was an avid player, and I le
+arned many tactics from him. About twenty years ago he disappeared. I've heard r
+umours that he went to Tibet to become a monk, but I don't believe them- he was 
+so old he could not possibly have managed to go so far."
+> TALK TO GEORGI BORISOV ABOUT AIRPORT
+
+"Hello to you, too. We'll be there in no time."
+
+Burgas Airport
+The second largest airport in Bulgaria is not as impressive as it sounds. The pr
+eviously white building is now a speckled gray color. Inside are rows of blue pl
+astic chairs and impatient travelers.
+
+Georgi Borisov is here and Bulgarian Dictionary can be found in the area.
+There is Zlatna livada Monastery to the east.
+You may travel to Bagdogra Airport (India) and Bilbao Airport (Spain).
+> TRAVEL TO BAGDOGRA AIRPORT
+You pay the standard fare of 200.
+Traveling to Bagdogra Airport.
+
+Bagdogra Airport
+The airport has only one landing strip and one building. The gray building is no
+t exactly a masterpiece of architecture.
+
+Nobody is here.
+There is Bagdogra Train Station (India) to the north, Bagdogra Post Office to th
+e east, and Bagdogra Bus Station (India) to the west.
+You may travel to Burgas Airport (Bulgaria) and Bilbao Airport (Spain).
+> NORTH
+
+Bagdogra Train Station
+The train station is located just north of the airport. It is a small building w
+ith only a few benches for the waiting passengers to sit on.
+
+Ticket Master is here.
+There is Bagdogra Airport (India) to the south.
+The storekeeper is Ticket Master and has 120 money. They sell the following item
+s:
+- Train Ticket (60)
+> BUY TRAIN TICKET
+EAST
+Train Ticket bought from Ticket Master for 60.
+
+"Welcome train!" the Ticket Master says.
+
+Room 7
+This small room only has a bed and a table.
+
+Nobody is here.
+There is Sleeping Carriage II to the east.
+> 
+Sleeping Carriage II
+The sleeping car has five small rooms for passengers. A narrow hallway goes thro
+ugh the car.
+
+Nobody is here.
+There is Sleeping Carriage to the north, and Room 7 (India) to the west.
+> NORTH
+
+Sleeping Carriage
+The sleeping car has five small rooms for passengers. A narrow hallway goes thro
+ugh the car.
+
+Nobody is here.
+There is Restaurant Carriage to the north, Sleeping Carriage II to the south, an
+d Room 2 to the west.
+> NORTH
+
+Restaurant Carriage
+The restaurant car has a small bar where the passengers can get their drinks and
+ modest where they can dine.
+
+Robber, Robber, and Robber are here.
+There is Sleeping Carriage to the south.
+As you enter the carriage some people in masks are waving guns around demanding 
+people's valuables. One of them spots you and yells something in Hindi.
+
+> SOUTH
+
+Sleeping Carriage
+The sleeping car has five small rooms for passengers. A narrow hallway goes thro
+ugh the car.
+
+Nobody is here.
+There is Restaurant Carriage to the north, Sleeping Carriage II to the south, an
+d Room 2 to the west.
+You just barely manage to escape from the robbers. But you hear them running tow
+ards you in the other carriage.
+
+> WEST
+
+Room 2
+This small room only has a bed and a table.
+
+Nobody is here.
+There is Sleeping Carriage to the east.
+You slip into the room and quickly lock the door behind you. You thank your luck
+, who knows what would have happened if the door was locked. You wait in the sma
+ll dark room for a few minutes just to be sure. The train stops for a moment and
+ continues moving soon after. The robbers must have left but you decide to wait 
+around for an hour just to be sure.
+
+> EAST
+
+Sleeping Carriage
+The sleeping car has five small rooms for passengers. A narrow hallway goes thro
+ugh the car.
+
+Nobody is here.
+There is Restaurant Carriage to the north, Sleeping Carriage II to the south, an
+d Room 2 to the west.
+> SOUTH
+
+Sleeping Carriage II
+The sleeping car has five small rooms for passengers. A narrow hallway goes thro
+ugh the car.
+
+Nobody is here.
+There is Sleeping Carriage to the north, and Room 7 (India) to the west.
+> WEST
+
+Room 7
+This small room only has a bed and a table.
+
+Nobody is here.
+There is Sleeping Carriage II to the east.
+You may travel to Jarayotar Train Station (India).
+> TRAVEL TO JARAYOTAR TRAIN STATION
+Traveling to Jarayotar Train Station.
+
+Jarayotar Train Station
+The unpretentious train station is the heart of the town.
+
+Nobody is here.
+There is Jarayotar to the east.
+You may travel to Room 7 (India).
+> EAST
+
+Jarayotar
+Jarayotar is a popular stop for hikers traveling to the Himalayan mountain range
+.
+
+Gajadhar is here.
+There is Road to Tibet (Nepal) to the north, Hiking Supplies to the east, and Ja
+rayotar Train Station (India) to the west.
+> EAST
+
+Hiking Supplies
+The humble store sells hiking, fishing and hunting supplies.
+
+Shopkeeper is here.
+There is Jarayotar to the west.
+The storekeeper is Shopkeeper and has 50 money. They sell the following items:
+- Fishing Net (20)
+- Fishing Net (20)
+- Awl (10)
+- Fish Bait (5)
+- Fishing Spear (50)
+- Gutting Knife (25)
+- Rope (20)
+- Snow Shoes (40)
+- Hiking Boots (30)
+- Switch Knife (30)
+> BUY FISHING NET
+WEST
+Fishing Net bought from Shopkeeper for 20.
+> 
+Jarayotar
+Jarayotar is a popular stop for hikers traveling to the Himalayan mountain range
+.
+
+Gajadhar is here.
+There is Road to Tibet (Nepal) to the north, Hiking Supplies to the east, and Ja
+rayotar Train Station (India) to the west.
+> NORTH
+
+Road to Tibet
+This rural mountain road will take you to Tibet. There seems to be a small shack
+ working as a bus station.
+
+Nobody is here.
+There is Road to Nepal (Nepal) to the north, and Jarayotar to the south.
+You may travel to Bagdogra Bus Station (India).
+> NORTH
+
+Road to Nepal
+This rugged mountain road leads to Nepal.
+
+Nobody is here.
+There is Chentangzhen to the north, and Road to Tibet (Nepal) to the south.
+> NORTH
+
+Chentangzhen
+This simple, quiet village on the border of Nepal and Tibet does not take kindly
+ to strangers. The river Pum Qu flows through the village.
+
+Fisherman is here.
+There is Shore of Pum Qu to the east, and Road to Nepal (Nepal) to the south.
+> GIVE FISHING NET TO FISHERMAN
+EAST
+Fishing Net given to Fisherman.
+
+"Good many thanks. Need help? I have boat."
+> 
+Shore of Pum Qu
+The sandy shore of the river Pum Qu, next to the village of Chentangzhen, has no
+ vegetation. There's a small boat on the beach.
+
+Nobody is here.
+There is Pum Qu I to the north, and Chentangzhen to the west.
+> NORTH
+
+Pum Qu I
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu II to the north, and Shore of Pum Qu to the south.
+The Fisherman takes you along the river with his little boat.
+
+> NORTH
+
+Pum Qu II
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu III to the north, Path up a Mountain to the east, and Pum Qu I t
+o the south.
+The Fisherman takes you along the river with his little boat.
+
+> NORTH
+
+Pum Qu III
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu II to the south, and Mountain Path to the west.
+The Fisherman takes you along the river with his little boat.
+
+> WEST
+
+Mountain Path
+The steep and rocky path undulates on the side of the mountain.
+
+Nobody is here.
+There is Snow Capped Mountain to the north, and Pum Qu III to the east.
+> NORTH
+
+Snow Capped Mountain
+This is only one of the many mountains in Tibet.
+
+Nobody is here.
+There is Mountain Plateau to the east, and Mountain Path to the south.
+> EXAMINE
+You examine the snowy landscape and discover several sets of footprints leading 
+to the north but they are not recent. This path is not often walked but somebody
+ must live around here.
+
+> NORTH
+
+Outside Monastery
+The nondescript, unmarked Buddhist monastery stands proudly at the top of a moun
+tain.
+
+Monk is here.
+There is Snow Capped Mountain to the south.
+> TALK TO MONK ABOUT ZLATIN PANAYOTOV
+
+The man nods. "An old Bulgarian monk? Ah, I believe you are looking for Tsering.
+ He's in his room at the moment. Go on inside."
+> NORTH
+
+Monastery Yard
+The open yard at the center of the monastery gives access to personal rooms all 
+around.
+
+Nobody is here.
+There is Tsering's Room to the east, and Outside Monastery to the south.
+> EAST
+
+Tsering's Room
+The room is humble, just like its inhabitant. There is only one chair, a thin bu
+t comfortable-looking mattress on the floor and an elementary chest.
+
+Zlatin Panayotov is here.
+There is Monastery Yard to the west.
+
+The old man regards you with an enigmatic smile. 'I expected this to happen even
+tually.' He waves you towards the only chair in the room. 'So, you are here for 
+the gem, are you not?'
+> TALK TO ZLATIN PANAYOTOV ABOUT FJÖRSTEINN
+
+Zlatin's hand moves with surprising swiftness as he takes the gem out of his poc
+ket. "The Fjǫrsteinn. The very same gem spoken of in the myths of the Vikings." 
+He holds up the small emerald stone in front of your eyes. "Quite beautiful, is 
+it not?" His eyes reflect the rock's faint green light and, for a moment, you ar
+e reminded of your childhood neighbour's green-eyed cat. "I found this in Greenl
+and nearly a century years ago. At the time, I was travelling the north, looking
+ for Viking artefacts. One time in Norway I came across an interesting myth that
+ described a powerful sword that belonged to Hveðrungr, nowadays more commonly k
+nown as Loki. Have you heard about this?" (Y/N)
+> YES
+
+"Good. Now, as you know, the gem was never found- not until I did, anyway. The s
+word, on the other hand, was found, but it disappeared from Norse mythology arou
+nd 1020. Well, I happen to know the second part of the story. Guðhjǫrr reappeare
+d as the weapon of a previously unknown viking called Hrosskell Hergeirsson near
+ly 150 years later. Some say Leifr made sure he was buried with the sword, and n
+o one dared disgrace his grave - until Hrosskell came along. The fabled viking w
+as ruthless and unscrupulous. Even though Vikings were viewed as bloodthirsty an
+d barbaric, he stood out from his kind. The man knew no limits to his quest for 
+glory and power. He had to own the sword, had to have the most beautiful wives, 
+had to go where no man had ever been before." The old man stops to take a sip of
+ water.
+"Not many are aware of this turn of events. I could have sought the blade, but I
+ did not. Immortality comes with a price. It would have turned me into a monstru
+osity over the years- a human figure void of humanity. I was content with the lo
+ng, calm life the Fjǫrsteinn would provide me with, so I came here, to the solit
+ude of these mountains. Now I have lived for 142 years and I feel ready to pass 
+the gem on. Should I find a suitable person to pass it on."
+> TALK TO ZLATIN PANAYOTOV ABOUT FJÖRSTEINN
+
+Zlatin examines you attentively. "You seem to be a wise youngster. I will give y
+ou the stone but I would like to ask you for something in return- consider this 
+my dying wish, if you will. On one of my trips, to Tanzania this time, I lost a 
+dear friend of mine. A small, fluffy vervet monkey. His name was Beast. I was tr
+aveling in the region around Lake Natron at the time. Oh how I wish to see him a
+gain..."
+> WEST
+
+Monastery Yard
+The open yard at the center of the monastery gives access to personal rooms all 
+around.
+
+Nobody is here.
+There is Tsering's Room to the east, and Outside Monastery to the south.
+> SOUTH
+
+Outside Monastery
+The nondescript, unmarked Buddhist monastery stands proudly at the top of a moun
+tain.
+
+Monk is here.
+There is Monastery Yard to the north, and Snow Capped Mountain to the south.
+> SOUTH
+
+Snow Capped Mountain
+This is only one of the many mountains in Tibet.
+
+Nobody is here.
+There is Outside Monastery to the north, Mountain Plateau to the east, and Mount
+ain Path to the south.
+> SOUTH
+
+Mountain Path
+The steep and rocky path undulates on the side of the mountain.
+
+Nobody is here.
+There is Snow Capped Mountain to the north, and Pum Qu III to the east.
+> EAST
+
+Pum Qu III
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu II to the south, and Mountain Path to the west.
+The Fisherman takes you along the river with his little boat.
+
+> SOUTH
+
+Pum Qu II
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu III to the north, Path up a Mountain to the east, and Pum Qu I t
+o the south.
+The Fisherman takes you along the river with his little boat.
+
+> SOUTH
+
+Pum Qu I
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu II to the north, and Shore of Pum Qu to the south.
+The Fisherman takes you along the river with his little boat.
+
+> SOUTH
+
+Shore of Pum Qu
+The sandy shore of the river Pum Qu, next to the village of Chentangzhen, has no
+ vegetation. There's a small boat on the beach.
+
+Nobody is here.
+There is Pum Qu I to the north, and Chentangzhen to the west.
+> WEST
+
+Chentangzhen
+This simple, quiet village on the border of Nepal and Tibet does not take kindly
+ to strangers. The river Pum Qu flows through the village.
+
+Fisherman is here.
+There is Shore of Pum Qu to the east, and Road to Nepal (Nepal) to the south.
+> SOUTH
+
+Road to Nepal
+This rugged mountain road leads to Nepal.
+
+Nobody is here.
+There is Chentangzhen to the north, and Road to Tibet (Nepal) to the south.
+> SOUTH
+
+Road to Tibet
+This rural mountain road will take you to Tibet. There seems to be a small shack
+ working as a bus station.
+
+Nobody is here.
+There is Road to Nepal (Nepal) to the north, and Jarayotar to the south.
+You may travel to Bagdogra Bus Station (India).
+> SOUTH
+
+Jarayotar
+Jarayotar is a popular stop for hikers traveling to the Himalayan mountain range
+.
+
+Gajadhar is here.
+There is Road to Tibet (Nepal) to the north, Hiking Supplies to the east, and Ja
+rayotar Train Station (India) to the west.
+> WEST
+
+Jarayotar Train Station
+The unpretentious train station is the heart of the town.
+
+Nobody is here.
+There is Jarayotar to the east.
+You may travel to Room 7 (India).
+> TRAVEL TO ROOM 7
+Traveling to Room 7.
+
+Room 7
+This small room only has a bed and a table.
+
+Nobody is here.
+There is Sleeping Carriage II to the east.
+You may travel to Bagdogra Train Station (India) and Jarayotar Train Station (In
+dia).
+> TRAVEL TO BAGDOGRA TRAIN STATION
+Traveling to Bagdogra Train Station.
+
+Bagdogra Train Station
+The train station is located just north of the airport. It is a small building w
+ith only a few benches for the waiting passengers to sit on.
+
+Ticket Master is here.
+There is Bagdogra Airport (India) to the south.
+You may travel to Room 7 (India).
+> SOUTH
+
+Bagdogra Airport
+The airport has only one landing strip and one building. The gray building is no
+t exactly a masterpiece of architecture.
+
+Nobody is here.
+There is Bagdogra Train Station (India) to the north, Bagdogra Post Office to th
+e east, and Bagdogra Bus Station (India) to the west.
+You may travel to Burgas Airport (Bulgaria), Tanga Airport (Tanzania), and Bilba
+o Airport (Spain).
+> TRAVEL TO TANGA AIRPORT
+You pay the standard fare of 200.
+Traveling to Tanga Airport.
+
+                 ----    Chapter III: Retrieving Beast    ----
+
+Tanga Airport
+The airport is located just outside of Tanga and consists of only a few little b
+uildings.
+
+Nobody is here.
+There is Outside of Tanga Airport to the north.
+You may travel to Burgas Airport (Bulgaria), Bagdogra Airport (India), and Bilba
+o Airport (Spain).
+> NORTH
+
+Outside of Tanga Airport
+There are some buildings and people walking by. In front of you is an advertisem
+ent in English for a local guide, Neema.
+
+Neema is here.
+There is Tanga Post Office to the north, Port of Tanga (Tanzania) to the east, a
+nd Tanga Airport (Tanzania) to the south.
+> TALK TO NEEMA ABOUT LAKE NATRON
+
+"I can show you the way, I'm familiar with the surroundings."
+
+Arusha
+Arusha is a tiny village by the Lake Natron.
+
+Neema is here.
+There is Chief's Hut to the south, and Lake Natron I to the west.
+> WEST
+
+Lake Natron I
+The large lake, located in northern Tanzania, is known for its calcified animals
+ and breeding flamingos.
+
+Nobody is here.
+There is Lake Natron II to the north, and Arusha to the east.
+> NORTH
+
+Lake Natron II
+There are several calcified animal bodies around: crow, bat and flamingo all sta
+nd side by side, petrified.
+
+Nobody is here.
+There is Lake Natron III to the north, and Lake Natron I to the south.
+> NORTH
+
+Lake Natron III
+The shore turns towards the lake, creating a delicate, smooth cape.
+
+Emela-ntouka is here.
+There is Lake Natron II to the south.
+> SHOOT EMELA-NTOUKA
+You shot Emela-ntouka dead!
+You found 0 money on Emela-ntouka's body.
+> SOUTH
+
+Lake Natron II
+There are several calcified animal bodies around: crow, bat and flamingo all sta
+nd side by side, petrified.
+
+Nobody is here.
+There is Lake Natron III to the north, and Lake Natron I to the south.
+> SOUTH
+
+Lake Natron I
+The large lake, located in northern Tanzania, is known for its calcified animals
+ and breeding flamingos.
+
+Nobody is here.
+There is Lake Natron II to the north, and Arusha to the east.
+> EAST
+
+Arusha
+Arusha is a tiny village by the Lake Natron.
+
+Neema is here.
+There is Chief's Hut to the south, and Lake Natron I to the west.
+> SOUTH
+
+Chief's Hut
+The rather imposing mud hut presides over the whole village. 
+
+Mwanza Chief is here.
+There is Arusha to the north.
+> TALK TO MWANZA CHIEF ABOUT LAKE MONSTER
+
+"Emela-ntouka is dead? You are most brave! Thank you! Hrrmmhh... Did Zlatin send
+ you? Should have known it. Why else would strangers be coming here. Of course i
+t had to be that damned Bulgarian! I know what you want. Take his blasted pet. I
+t's ugly anyways."
+Calcified Vervet Monkey given to Andrea Álvarez.
+> NORTH
+
+Arusha
+Arusha is a tiny village by the Lake Natron.
+
+Neema is here.
+There is Chief's Hut to the south, and Lake Natron I to the west.
+> TALK TO NEEMA ABOUT AIRPORT
+
+"Airport? Follow me."
+
+Outside of Tanga Airport
+There are some buildings and people walking by. In front of you is an advertisem
+ent in English for a local guide, Neema.
+
+Neema is here.
+There is Tanga Post Office to the north, Port of Tanga (Tanzania) to the east, a
+nd Tanga Airport (Tanzania) to the south.
+> SOUTH
+
+Tanga Airport
+The airport is located just outside of Tanga and consists of only a few little b
+uildings.
+
+Nobody is here.
+There is Outside of Tanga Airport to the north.
+You may travel to Burgas Airport (Bulgaria), Bagdogra Airport (India), and Bilba
+o Airport (Spain).
+> TRAVEL TO BAGDOGRA AIRPORT
+You pay the standard fare of 200.
+Traveling to Bagdogra Airport.
+
+                   ----    Chapter IV: The Fjǫrsteinn    ----
+
+Bagdogra Airport
+The airport has only one landing strip and one building. The gray building is no
+t exactly a masterpiece of architecture.
+
+Nobody is here.
+There is Bagdogra Train Station (India) to the north, Bagdogra Post Office to th
+e east, and Bagdogra Bus Station (India) to the west.
+You may travel to Burgas Airport (Bulgaria), Tanga Airport (Tanzania), and Bilba
+o Airport (Spain).
+> NORTH
+
+Bagdogra Train Station
+The train station is located just north of the airport. It is a small building w
+ith only a few benches for the waiting passengers to sit on.
+
+Ticket Master is here.
+There is Bagdogra Airport (India) to the south.
+You may travel to Room 7 (India).
+The storekeeper is Ticket Master and has 180 money. They sell the following item
+s:
+> TRAVEL TO ROOM 7
+Traveling to Room 7.
+
+Room 7
+This small room only has a bed and a table.
+
+Nobody is here.
+There is Sleeping Carriage II to the east.
+You may travel to Bagdogra Train Station (India) and Jarayotar Train Station (In
+dia).
+> TRAVEL TO JARAYOTAR TRAIN STATION
+Traveling to Jarayotar Train Station.
+
+Jarayotar Train Station
+The unpretentious train station is the heart of the town.
+
+Nobody is here.
+There is Jarayotar to the east.
+You may travel to Room 7 (India).
+> EAST
+
+Jarayotar
+Jarayotar is a popular stop for hikers traveling to the Himalayan mountain range
+.
+
+Gajadhar is here.
+There is Road to Tibet (Nepal) to the north, Hiking Supplies to the east, and Ja
+rayotar Train Station (India) to the west.
+> NORTH
+
+Road to Tibet
+This rural mountain road will take you to Tibet. There seems to be a small shack
+ working as a bus station.
+
+Nobody is here.
+There is Road to Nepal (Nepal) to the north, and Jarayotar to the south.
+You may travel to Bagdogra Bus Station (India).
+> NORTH
+
+Road to Nepal
+This rugged mountain road leads to Nepal.
+
+Nobody is here.
+There is Chentangzhen to the north, and Road to Tibet (Nepal) to the south.
+> NORTH
+
+Chentangzhen
+This simple, quiet village on the border of Nepal and Tibet does not take kindly
+ to strangers. The river Pum Qu flows through the village.
+
+Fisherman is here.
+There is Shore of Pum Qu to the east, and Road to Nepal (Nepal) to the south.
+> EAST
+
+Shore of Pum Qu
+The sandy shore of the river Pum Qu, next to the village of Chentangzhen, has no
+ vegetation. There's a small boat on the beach.
+
+Nobody is here.
+There is Pum Qu I to the north, and Chentangzhen to the west.
+> NORTH
+
+Pum Qu I
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu II to the north, and Shore of Pum Qu to the south.
+The Fisherman takes you along the river with his little boat.
+
+> NORTH
+
+Pum Qu II
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu III to the north, Path up a Mountain to the east, and Pum Qu I t
+o the south.
+The Fisherman takes you along the river with his little boat.
+
+> NORTH
+
+Pum Qu III
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu II to the south, and Mountain Path to the west.
+The Fisherman takes you along the river with his little boat.
+
+> WEST
+
+Mountain Path
+The steep and rocky path undulates on the side of the mountain.
+
+Nobody is here.
+There is Snow Capped Mountain to the north, and Pum Qu III to the east.
+> NORTH
+
+Snow Capped Mountain
+This is only one of the many mountains in Tibet.
+
+Nobody is here.
+There is Outside Monastery to the north, Mountain Plateau to the east, and Mount
+ain Path to the south.
+> NORTH
+
+Outside Monastery
+The nondescript, unmarked Buddhist monastery stands proudly at the top of a moun
+tain.
+
+Monk is here.
+There is Monastery Yard to the north, and Snow Capped Mountain to the south.
+> NORTH
+
+Monastery Yard
+The open yard at the center of the monastery gives access to personal rooms all 
+around.
+
+Nobody is here.
+There is Tsering's Room to the east, and Outside Monastery to the south.
+> EAST
+
+Tsering's Room
+The room is humble, just like its inhabitant. There is only one chair, a thin bu
+t comfortable-looking mattress on the floor and an elementary chest.
+
+Zlatin Panayotov is here.
+There is Monastery Yard to the west.
+> GIVE CALCIFIED VERVET MONKEY TO ZLATIN PANAYOTOV
+Calcified Vervet Monkey given to Zlatin Panayotov.
+
+The old man tears up as you give him the once so lively monkey. "Thank you." Wit
+hout another word, he hands you the gem.
+WEST
+Fjǫrsteinn given to Andrea Álvarez.
+> 
+Monastery Yard
+The open yard at the center of the monastery gives access to personal rooms all 
+around.
+
+Nobody is here.
+There is Tsering's Room to the east, and Outside Monastery to the south.
+> SOUTH
+
+Outside Monastery
+The nondescript, unmarked Buddhist monastery stands proudly at the top of a moun
+tain.
+
+Monk is here.
+There is Monastery Yard to the north, and Snow Capped Mountain to the south.
+> SOUTH
+
+Snow Capped Mountain
+This is only one of the many mountains in Tibet.
+
+Nobody is here.
+There is Outside Monastery to the north, Mountain Plateau to the east, and Mount
+ain Path to the south.
+> SOUTH
+
+Mountain Path
+The steep and rocky path undulates on the side of the mountain.
+
+Nobody is here.
+There is Snow Capped Mountain to the north, and Pum Qu III to the east.
+> EAST
+
+Pum Qu III
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu II to the south, and Mountain Path to the west.
+The Fisherman takes you along the river with his little boat.
+
+> SOUTH
+
+Pum Qu II
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu III to the north, Path up a Mountain to the east, and Pum Qu I t
+o the south.
+The Fisherman takes you along the river with his little boat.
+
+> SOUTH
+
+Pum Qu I
+The calm river flows north from Chentangzen.
+
+Nobody is here.
+There is Pum Qu II to the north, and Shore of Pum Qu to the south.
+The Fisherman takes you along the river with his little boat.
+
+> SOUTH
+
+Shore of Pum Qu
+The sandy shore of the river Pum Qu, next to the village of Chentangzhen, has no
+ vegetation. There's a small boat on the beach.
+
+Nobody is here.
+There is Pum Qu I to the north, and Chentangzhen to the west.
+> WEST
+
+Chentangzhen
+This simple, quiet village on the border of Nepal and Tibet does not take kindly
+ to strangers. The river Pum Qu flows through the village.
+
+Fisherman is here.
+There is Shore of Pum Qu to the east, and Road to Nepal (Nepal) to the south.
+> SOUTH
+
+Road to Nepal
+This rugged mountain road leads to Nepal.
+
+Nobody is here.
+There is Chentangzhen to the north, and Road to Tibet (Nepal) to the south.
+> SOUTH
+
+Road to Tibet
+This rural mountain road will take you to Tibet. There seems to be a small shack
+ working as a bus station.
+
+Nobody is here.
+There is Road to Nepal (Nepal) to the north, and Jarayotar to the south.
+You may travel to Bagdogra Bus Station (India).
+> SOUTH
+
+Jarayotar
+Jarayotar is a popular stop for hikers traveling to the Himalayan mountain range
+.
+
+Gajadhar is here.
+There is Road to Tibet (Nepal) to the north, Hiking Supplies to the east, and Ja
+rayotar Train Station (India) to the west.
+> WEST
+
+Jarayotar Train Station
+The unpretentious train station is the heart of the town.
+
+Nobody is here.
+There is Jarayotar to the east.
+You may travel to Room 7 (India).
+> TRAVEL TO ROOM 7
+Traveling to Room 7.
+
+Room 7
+This small room only has a bed and a table.
+
+Nobody is here.
+There is Sleeping Carriage II to the east.
+You may travel to Bagdogra Train Station (India) and Jarayotar Train Station (In
+dia).
+> TRAVEL TO BAGDOGRA TRAIN STATION
+Traveling to Bagdogra Train Station.
+
+Bagdogra Train Station
+The train station is located just north of the airport. It is a small building w
+ith only a few benches for the waiting passengers to sit on.
+
+Ticket Master is here.
+There is Bagdogra Airport (India) to the south.
+You may travel to Room 7 (India).
+> SOUTH
+
+Bagdogra Airport
+The airport has only one landing strip and one building. The gray building is no
+t exactly a masterpiece of architecture.
+
+Nobody is here.
+There is Bagdogra Train Station (India) to the north, Bagdogra Post Office to th
+e east, and Bagdogra Bus Station (India) to the west.
+You may travel to Burgas Airport (Bulgaria), Tanga Airport (Tanzania), and Bilba
+o Airport (Spain).
+> TRAVEL TO BILBAO AIRPORT
+You pay the standard fare of 200.
+Traveling to Bilbao Airport.
+
+Bilbao Airport
+The Bilbao Airport is, you find, rather small but quite beautiful. It is easily 
+accessible by bus from the central Plaza Moyua. The crisp white roof is inclined
+ and rounded, which gives you the impression of being inside a vast seashell. Yo
+u walk slowly towards the gates, taking in the exquisite architecture. Since the
+ airport is quite calm, you are able to pass through the security check without 
+fuss. The indications are clear, and finding the right gate poses no problems: y
+ou are now awaiting boarding.
+
+Nobody is here.
+There is nowhere to go to.
+You may travel to Museo de las Bellas Artes, Burgas Airport (Bulgaria), Bagdogra
+ Airport (India), and Tanga Airport (Tanzania).
+> TRAVEL TO MUSEO DE LAS BELLAS ARTES
+Traveling to Museo de las Bellas Artes.
+
+Museo de las Bellas Artes
+This large museum was established in 1914 and has since accumulated an impressiv
+e range of artifacts (from Imperial Japan to modern Europe).
+
+Nobody is here.
+There is Intern Office to the north, Storage Room 3 to the southeast, Museum Arc
+hives to the south, and Director's Office to the northwest.
+You may travel to Bilbao Airport (Spain) and Port of Bilbao (Spain).
+> TRAVEL TO PORT OF BILBAO
+Traveling to Port of Bilbao.
+
+Port of Bilbao
+Industrial port near Sopelana beach.
+
+Nobody is here.
+There is nowhere to go to.
+You may travel to Museo de las Bellas Artes, Port of Jakobshavn (Greenland), and
+ Port of Tanga (Tanzania).
+> TRAVEL TO PORT OF JAKOBSHAVN
+You pay the standard fare of 200.
+Traveling to Port of Jakobshavn.
+
+                 ----    Chapter V: The Fabled Guðhjǫrr    ----
+
+A local fisherman notices you. He eyes you for a bit before deciding that you're
+ probably not a merchant. "Here for the crater are ya?" he says. "Just head on s
+traight through the town and into the wilderness. It's not too far."
+
+
+Port of Jakobshavn
+The small and quiet little port is located on the coast of Disko Bay. The water 
+is strikingly cyan in color. Several sheets of thick ice float in the still bay.
+ You can see an island to the west. A loose group of wooden houses and shacks po
+pulate the general area around the three wharves. Some buildings' smoke stacks p
+uff light smoke in the air. You see a fisherman gutting cod outside his shack an
+d another fixing a hole in his net. There is a row of hides drying in a long can
+opy with several bulging leather sacks piled up at one end. A cold breeze catche
+s you off guard, you shiver and pull up your collar more.
+
+Fisherman and Sailor are here.
+There is Jakobshavn Post Office to the north, Jakobshavn to the east, and Port M
+aster's Building to the south.
+You may travel to Port of Bilbao (Spain) and Port of Tanga (Tanzania).
+> EAST
+
+Jakobshavn
+The town is settled near the shore as the snow covered ground begins to rise ste
+eply behind the furthest buildings. There is a single tall spiky rock standing o
+n a smooth hill overlooking the town. The brightly colored wooden houses stand o
+ut in the snow like snow-capped flowers. The loosely defined streets are distinc
+tly empty apart from a couple of people going about their day.
+
+Villager is here.
+There is General Store to the north, Jakobshavn Inn to the south, and Port of Ja
+kobshavn (Greenland) to the west.
+You may travel to Edge of the Crater.
+> SOUTH
+
+Jakobshavn Inn
+The smoky air stings as you breath in but warmth from the large fireplace quickl
+y wraps around you making up for the smell. The inn isn't exactly packed but tak
+ing into account the amount of people you've seen so far, nearly a fourth of the
+ town must be here. A hushed buzz of conversation surrounds you along with the j
+ingling of glasses and scraping of wood. Several people glance at you as you ent
+er but don't pay much attention, they're probably used to the occasional merchan
+t passing through. You make your way through the maze of tables to the counter w
+here the innkeeper is talking with a patron.
+
+Innkeeper and Lone Patron are here.
+There is Jakobshavn to the north.
+The storekeeper is Innkeeper and has 240 money. They sell the following items:
+- Mead (15)
+- Mead (15)
+- Mead (15)
+> BUY MEAD
+Mead bought from Innkeeper for 15.
+> GIVE MEAD TO LONE PATRON
+Mead given to Lone Patron.
+
+"Excellent! Thank you! Please have a seat friend!"
+
+"Ah, mead, the sweet elixir of my life." He takes another large gulp. "Guðhjǫrr 
+you say? That is a mythical sword that supposedly gives its beholder invincibili
+ty. It is an important part of Viking mythology." He finishes his mead in one gu
+lp. "Oh, look at that, I'm already out of something to drink..."
+
+"I might be able to tell you some more if you have another drink with me." he sa
+ys.
+> BUY MEAD
+Mead bought from Innkeeper for 15.
+> GIVE MEAD TO LONE PATRON
+Mead given to Lone Patron.
+
+"Thank you! Please have a seat friend!"
+
+"Much better, thank you." He drinks half of the mug at once. "You have come to t
+he right place if you want to learn about Vikings." He sips. "Did you know there
+ are a few renowned, mythical places around here? The sunken ship, for example."
+ Another sip. "It is said to be haunted by the crew members that drowned with it
+ nearly a thousand years ago." The Lone Patron stops talking and looks at his em
+pty glass with great sorrow in his eyes.
+
+"I think I know a bit more about vikings that might interest you."
+> BUY MEAD
+Mead bought from Innkeeper for 15.
+> GIVE MEAD TO LONE PATRON
+Mead given to Lone Patron.
+
+"Please have a seat friend!"
+
+He takes yet another sip. "There we go. As I was saying, the sunken ship is haun
+ted- according to the legend, of course. The captain Kolbiorn and his men spend 
+eternity in their death trap, forever recounting old Norse stories. Whether you 
+choose to believe in that is up to you. Now, if you will excuse me, the bar coun
+ter is calling me."
+> NORTH
+
+Jakobshavn
+The town is settled near the shore as the snow covered ground begins to rise ste
+eply behind the furthest buildings. There is a single tall spiky rock standing o
+n a smooth hill overlooking the town. The brightly colored wooden houses stand o
+ut in the snow like snow-capped flowers. The loosely defined streets are distinc
+tly empty apart from a couple of people going about their day.
+
+Villager is here.
+There is General Store to the north, Jakobshavn Inn to the south, and Port of Ja
+kobshavn (Greenland) to the west.
+You may travel to Edge of the Crater.
+> WEST
+
+Port of Jakobshavn
+The small and quiet little port is located on the coast of Disko Bay. The water 
+is strikingly cyan in color. Several sheets of thick ice float in the still bay.
+ You can see an island to the west. A loose group of wooden houses and shacks po
+pulate the general area around the three wharves. Some buildings' smoke stacks p
+uff light smoke in the air. You see a fisherman gutting cod outside his shack an
+d another fixing a hole in his net. There is a row of hides drying in a long can
+opy with several bulging leather sacks piled up at one end. A cold breeze catche
+s you off guard, you shiver and pull up your collar more.
+
+Fisherman and Sailor are here.
+There is Jakobshavn Post Office to the north, Jakobshavn to the east, and Port M
+aster's Building to the south.
+You may travel to Port of Bilbao (Spain) and Port of Tanga (Tanzania).
+> SOUTH
+
+Port Master's Building
+The port master supervises her port from the warmth of her tiny office most days
+. The room is much smaller than it looks from the outside due to the copious num
+ber of drawers covering the walls. There is an old leather and brass diving suit
+ on display in one corner. The stacks of papers on her desk are just about to fa
+ll over making you wonder how it's possible a tiny port like this would require 
+so much management and paperwork.
+
+Port Master is here.
+There is Port of Jakobshavn (Greenland) to the north.
+> RENT DIVING SUIT
+Diving Suit rented from Port Master for 500.
+"This should be useful for exploring that sunk viking ship."
+
+> NORTH
+
+Port of Jakobshavn
+The small and quiet little port is located on the coast of Disko Bay. The water 
+is strikingly cyan in color. Several sheets of thick ice float in the still bay.
+ You can see an island to the west. A loose group of wooden houses and shacks po
+pulate the general area around the three wharves. Some buildings' smoke stacks p
+uff light smoke in the air. You see a fisherman gutting cod outside his shack an
+d another fixing a hole in his net. There is a row of hides drying in a long can
+opy with several bulging leather sacks piled up at one end. A cold breeze catche
+s you off guard, you shiver and pull up your collar more.
+
+Fisherman and Sailor are here.
+There is Jakobshavn Post Office to the north, Jakobshavn to the east, and Port M
+aster's Building to the south.
+You may travel to Port of Bilbao (Spain) and Port of Tanga (Tanzania).
+> TALK TO SAILOR ABOUT MELVILLE BAY
+
+"Yes, I can take you to the bay area- for the small price of 70."
+
+Melville Bay
+The water is a pleasant deep blue but you shiver at the thought of swimming in i
+t. The wide open bay area offers no protection from the biting wind. You notice 
+a sailboat in the distance towards the north along with some houses on the shore
+. You wonder about the name of the village.
+
+Sailor is here.
+There is Underwater Viking Ship below.
+This where the ship sunk according to the Lone Patron.
+
+> DOWN
+
+Underwater Viking Ship
+The sunken ship is that of the viking Kolbiorn. Rumours say the ghosts of the cr
+ew are still aboard.
+
+Skeleton is here.
+There is Melville Bay above.
+> TALK TO KOLBIORN ABOUT GUTHJÖRR
+That person is not here.
+> UP
+
+Melville Bay
+The water is a pleasant deep blue but you shiver at the thought of swimming in i
+t. The wide open bay area offers no protection from the biting wind. You notice 
+a sailboat in the distance towards the north along with some houses on the shore
+. You wonder about the name of the village.
+
+Sailor is here.
+There is Underwater Viking Ship below.
+> TALK TO SAILOR ABOUT BACK to port
+
+"Right away, sir..."
+
+Port of Jakobshavn
+The small and quiet little port is located on the coast of Disko Bay. The water 
+is strikingly cyan in color. Several sheets of thick ice float in the still bay.
+ You can see an island to the west. A loose group of wooden houses and shacks po
+pulate the general area around the three wharves. Some buildings' smoke stacks p
+uff light smoke in the air. You see a fisherman gutting cod outside his shack an
+d another fixing a hole in his net. There is a row of hides drying in a long can
+opy with several bulging leather sacks piled up at one end. A cold breeze catche
+s you off guard, you shiver and pull up your collar more.
+
+Fisherman and Sailor are here.
+There is Jakobshavn Post Office to the north, Jakobshavn to the east, and Port M
+aster's Building to the south.
+You may travel to Port of Bilbao (Spain) and Port of Tanga (Tanzania).
+> EAST
+
+Jakobshavn
+The town is settled near the shore as the snow covered ground begins to rise ste
+eply behind the furthest buildings. There is a single tall spiky rock standing o
+n a smooth hill overlooking the town. The brightly colored wooden houses stand o
+ut in the snow like snow-capped flowers. The loosely defined streets are distinc
+tly empty apart from a couple of people going about their day.
+
+Villager is here.
+There is General Store to the north, Jakobshavn Inn to the south, and Port of Ja
+kobshavn (Greenland) to the west.
+You may travel to Edge of the Crater.
+> SOUTH
+
+Jakobshavn Inn
+The smoky air stings as you breath in but warmth from the large fireplace quickl
+y wraps around you making up for the smell. The inn isn't exactly packed but tak
+ing into account the amount of people you've seen so far, nearly a fourth of the
+ town must be here. A hushed buzz of conversation surrounds you along with the j
+ingling of glasses and scraping of wood. Several people glance at you as you ent
+er but don't pay much attention, they're probably used to the occasional merchan
+t passing through. You make your way through the maze of tables to the counter w
+here the innkeeper is talking with a patron.
+
+Innkeeper and Lone Patron are here.
+There is Jakobshavn to the north.
+The storekeeper is Innkeeper and has 285 money. They sell the following items:
+> RENT ROOM
+['Room', "The little room is cozy, with a small night table with two drawers and
+ a clean bed. You suppose it's enough for the occasional traveler but a simple w
+indow could have been nice. Perhaps the innkeeper thinks the painting of the Jak
+obshavn port on the wall is an adequate replacement?"]
+
+Room
+The little room is cozy, with a small night table with two drawers and a clean b
+ed. You suppose it's enough for the occasional traveler but a simple window coul
+d have been nice. Perhaps the innkeeper thinks the painting of the Jakobshavn po
+rt on the wall is an adequate replacement?
+You slept well. In the morning you descend down the stairs to the bar. The innke
+eper is still behind the counter, you wonder if she sleeps at all. "If you're lo
+oking for Jens, the man you were asking about last night, you'll probably find h
+im at his house a bit east from here." the innkeeper says to you.
+
+> north
+
+Jakobshavn
+The town is settled near the shore as the snow covered ground begins to rise ste
+eply behind the furthest buildings. There is a single tall spiky rock standing o
+n a smooth hill overlooking the town. The brightly colored wooden houses stand o
+ut in the snow like snow-capped flowers. The loosely defined streets are distinc
+tly empty apart from a couple of people going about their day.
+
+Villager is here.
+There is General Store to the north, Jens' Home to the east, Jakobshavn Inn to t
+he south, and Port of Jakobshavn (Greenland) to the west.
+You may travel to Edge of the Crater.
+> EAST
+
+Jens' Home
+The living room of the private collector is fairly well furnished with artefacts
+ ranging from expensive looking mats to ancient paintings. An unexpected sight i
+n a rural town like Jakobshavn. There are several old weapons, jewelry items, an
+d utensils spread about the room, some under dusty glass boxes. He even has a so
+mewhat rotten plank hung on one wall. Being familiar with private collectors Jen
+s doesn't appear to break the mold.
+
+Jens is here.
+There is Jakobshavn Inn to the southwest, and Jakobshavn to the west.
+> TALK TO JENS ABOUT KOLBIORN'S SWORD
+
+"Kolbiorn's Sword? Hmmm... Yes, I do believe I have the sword of that particular
+ viking. Where did you hear about it? Oh! Are you interested in buying it? I mig
+ht part with for the modest sum of 1200. How's that sound? (Y/N)"
+> NO
+
+"Too... expensive for you?" Jens smirks, "Well... should you come across a Vikin
+g artifact of equal value I might exchange the sword for that." he says. "Speaki
+ng of which... There have been rumors of strange goings-on at the crater amongst
+ the villagers but then again they always have some fitting myth or story about 
+that crater for every situation. It's probably nothing but I personally wouldn't
+ risk my hide going there this time of year. Wolves are about."
+
+                ----    Chapter VI: Necklace of a Shaman    ----
+
+> WEST
+
+Jakobshavn
+The town is settled near the shore as the snow covered ground begins to rise ste
+eply behind the furthest buildings. There is a single tall spiky rock standing o
+n a smooth hill overlooking the town. The brightly colored wooden houses stand o
+ut in the snow like snow-capped flowers. The loosely defined streets are distinc
+tly empty apart from a couple of people going about their day.
+
+Villager is here.
+There is General Store to the north, Jens' Home to the east, Jakobshavn Inn to t
+he south, and Port of Jakobshavn (Greenland) to the west.
+You may travel to Edge of the Crater.
+> TRAVEL TO EDGE OF THE CRATER
+Traveling to Edge of the Crater.
+
+Edge of the Crater
+You see an eroded depression in front of you, overgrown with a forest. The crate
+r is just barely deep enough that you can't see the top of the trees from beyond
+ the edge. A small river trickles down from the edge to a lake at the bottom.
+
+Nobody is here.
+There is West Crater Forest to the east.
+You may travel to Jakobshavn.
+> EAST
+
+West Crater Forest
+The forest really thickens up here and moving takes quite a bit of effort. The s
+now on the trees gives them a candy-like look but the ground has stayed almost e
+ntirely clear of snow, even in the clearings. At least the birds sing their pret
+ty little songs in the trees.
+
+Nobody is here.
+There is North-West Crater Forest to the north, North Crater Forest to the north
+east, Crater Lake to the east, South Crater Forest to the southeast, South-West 
+Crater Forest to the south, and Edge of the Crater to the west.
+> NORTH
+
+North-West Crater Forest
+The forest isn't very dense here so you catch a glimpse of a family of foxes wal
+king around to the south. The snow on the trees gives them a candy-like look but
+ the ground has stayed almost entirely clear of snow, even in the clearings.
+
+Tribal Wolf and Tribal Wolf are here.
+There is North Crater Forest to the east, Crater Lake to the southeast, and West
+ Crater Forest to the south.
+> SAY MOTHER
+Andrea Álvarez says "mother"
+
+You say the words "mother". The ears of both wolves perk up and they freeze. The
+y slowly walk towards you and the other one lets out a slight howl. They brush y
+our knees as they walk past you towards the edge of the crater. You turn around 
+and see the wolves staring at you, waiting.
+
+> SOUTH
+
+West Crater Forest
+The forest really thickens up here and moving takes quite a bit of effort. The s
+now on the trees gives them a candy-like look but the ground has stayed almost e
+ntirely clear of snow, even in the clearings. At least the birds sing their pret
+ty little songs in the trees.
+
+Nobody is here.
+There is North-West Crater Forest to the north, North Crater Forest to the north
+east, Crater Lake to the east, South Crater Forest to the southeast, South-West 
+Crater Forest to the south, and Edge of the Crater to the west.
+> SOUTHEAST
+
+South Crater Forest
+The ground lacks the plentiful snow cover the few trees that are in the area hav
+e. You spot a white creature speeding past from the corner of your eye.
+
+Nobody is here.
+There is Crater Lake to the north, East Crater Forest to the northeast, South-Ea
+st Crater Forest to the east, South-West Crater Forest to the west, and West Cra
+ter Forest to the northwest.
+> EXAMINE
+You examine the forest floor and in a crevice between roots of a tree something 
+gray catches your eyes. You crouch at the roots and discover light gray scales. 
+A shed skin of some sort of a lizard. Even though the forest floor is not snowy 
+the white skin is tucked away fairly deep in the crevice and is not spotted easi
+ly.
+
+> TAKE SKIN OF LINNORMR
+Skin of Linnormr taken.
+> NORTHWEST
+
+West Crater Forest
+The forest really thickens up here and moving takes quite a bit of effort. The s
+now on the trees gives them a candy-like look but the ground has stayed almost e
+ntirely clear of snow, even in the clearings. At least the birds sing their pret
+ty little songs in the trees.
+
+Nobody is here.
+There is North-West Crater Forest to the north, North Crater Forest to the north
+east, Crater Lake to the east, South Crater Forest to the southeast, South-West 
+Crater Forest to the south, and Edge of the Crater to the west.
+> WEST
+
+Edge of the Crater
+You see an eroded depression in front of you, overgrown with a forest. The crate
+r is just barely deep enough that you can't see the top of the trees from beyond
+ the edge. A small river trickles down from the edge to a lake at the bottom.
+
+Tribal Wolf and Tribal Wolf are here.
+There is West Crater Forest to the east.
+You may travel to Outside Shaman's Lair and Jakobshavn.
+The wolves walk to the north and into the wilderness, leaving behind a trail in 
+the snow.
+
+> TRAVEL TO SHAMAN'S LAIR
+Traveling to Outside Shaman's Lair.
+
+Outside Shaman's Lair
+The nondescript bump in the ground that looks like any other mound. There is a s
+mall hole on the side, but it is hardly visible, even when you are staring right
+ at it. There is a good chance you would never find it unless you were specifica
+lly looking for it.
+
+Nobody is here.
+There is Shaman's Lair below.
+You may travel to Edge of the Crater.
+> DOWN
+
+Shaman's Lair
+The large, cave-like structure is well hidden from the outside world. The walls 
+have strange symbols carved into them and the pillar-like structures suggest the
+ cave is not of natural origin.
+
+Vǫlur, Tribal Wolf, and Tribal Wolf are here.
+There is Outside Shaman's Lair above.
+> GIVE SKIN OF LINNORMR TO VÖLUR
+Skin of Linnormr given to Vǫlur.
+Shaman's Necklace given to Andrea Álvarez.
+> UP
+
+Outside Shaman's Lair
+The nondescript bump in the ground that looks like any other mound. There is a s
+mall hole on the side, but it is hardly visible, even when you are staring right
+ at it. There is a good chance you would never find it unless you were specifica
+lly looking for it.
+
+Nobody is here.
+There is Shaman's Lair below.
+You may travel to Edge of the Crater.
+> TRAVEL TO EDGE OF THE CRATER
+Traveling to Edge of the Crater.
+
+Edge of the Crater
+You see an eroded depression in front of you, overgrown with a forest. The crate
+r is just barely deep enough that you can't see the top of the trees from beyond
+ the edge. A small river trickles down from the edge to a lake at the bottom.
+
+Nobody is here.
+There is West Crater Forest to the east.
+You may travel to Outside Shaman's Lair and Jakobshavn.
+> TRAVEL TO JAKOBSHAVN
+Traveling to Jakobshavn.
+
+Jakobshavn
+The town is settled near the shore as the snow covered ground begins to rise ste
+eply behind the furthest buildings. There is a single tall spiky rock standing o
+n a smooth hill overlooking the town. The brightly colored wooden houses stand o
+ut in the snow like snow-capped flowers. The loosely defined streets are distinc
+tly empty apart from a couple of people going about their day.
+
+Villager is here.
+There is General Store to the north, Jens' Home to the east, Jakobshavn Inn to t
+he south, and Port of Jakobshavn (Greenland) to the west.
+You may travel to Edge of the Crater.
+> EAST
+
+Jens' Home
+The living room of the private collector is fairly well furnished with artefacts
+ ranging from expensive looking mats to ancient paintings. An unexpected sight i
+n a rural town like Jakobshavn. There are several old weapons, jewelry items, an
+d utensils spread about the room, some under dusty glass boxes. He even has a so
+mewhat rotten plank hung on one wall. Being familiar with private collectors Jen
+s doesn't appear to break the mold.
+
+Jens is here.
+There is Jakobshavn Inn to the southwest, and Jakobshavn to the west.
+> GIVE SHAMAN'S NECKLACE TO JENS
+WEST
+Shaman's Necklace given to Jens.
+
+"Incredible! Where did you find this? Here! Take the sword!"
+Kolbiorn's Sword given to Andrea Álvarez.
+
+                 ----    Chapter VII: Call of the Inca    ----
+
+> 
+Jakobshavn
+The town is settled near the shore as the snow covered ground begins to rise ste
+eply behind the furthest buildings. There is a single tall spiky rock standing o
+n a smooth hill overlooking the town. The brightly colored wooden houses stand o
+ut in the snow like snow-capped flowers. The loosely defined streets are distinc
+tly empty apart from a couple of people going about their day.
+
+Villager is here.
+There is General Store to the north, Jens' Home to the east, Jakobshavn Inn to t
+he south, and Port of Jakobshavn (Greenland) to the west.
+You may travel to Edge of the Crater.
+> WEST
+
+Port of Jakobshavn
+The small and quiet little port is located on the coast of Disko Bay. The water 
+is strikingly cyan in color. Several sheets of thick ice float in the still bay.
+ You can see an island to the west. A loose group of wooden houses and shacks po
+pulate the general area around the three wharves. Some buildings' smoke stacks p
+uff light smoke in the air. You see a fisherman gutting cod outside his shack an
+d another fixing a hole in his net. There is a row of hides drying in a long can
+opy with several bulging leather sacks piled up at one end. A cold breeze catche
+s you off guard, you shiver and pull up your collar more.
+
+Fisherman and Sailor are here.
+There is Jakobshavn Post Office to the north, Jakobshavn to the east, and Port M
+aster's Building to the south.
+You may travel to Port of Bilbao (Spain) and Port of Tanga (Tanzania).
+> TALK TO SAILOR ABOUT MELVILLE BAY
+
+"Yes, I can take you to the bay area- for the small price of 70."
+
+Melville Bay
+The water is a pleasant deep blue but you shiver at the thought of swimming in i
+t. The wide open bay area offers no protection from the biting wind. You notice 
+a sailboat in the distance towards the north along with some houses on the shore
+. You wonder about the name of the village.
+
+Sailor is here.
+There is Underwater Viking Ship below.
+This where the ship sunk according to the Lone Patron.
+
+> DOWN
+
+Underwater Viking Ship
+The sunken ship is that of the viking Kolbiorn. Rumours say the ghosts of the cr
+ew are still aboard.
+
+Skeleton is here.
+There is Melville Bay above.
+> GREET SKELETON
+All of a sudden, you hear a low voice resonating inside your brass helmet. You s
+ee the what appears to be a white humanoid light source fading into view a few m
+eters in front of you. "Who goes there?"
+> GIVE KOLBIORN'S SWORD TO GHOST OF KOLBIORN VÍLGEIRSON
+Kolbiorn's Sword given to Ghost of Kolbiorn Vílgeirson.
+
+"You have my gratitude." echoes in your head.
+> TALK TO GHOST OF KOLBIORN VÍLGEIRSON ABOUT HROSSKELL
+
+"The story of the Guðhjǫrr is tied to one Hrosskell Hergeirsson. Being the fearl
+ess warrior he was, he set course for Vinland in the footprints Leifr Eiríksson 
+bringing the Guðhjǫrr with him. This, however, did not attenuate his thirst for 
+prestige. He had to continue. Conquer new lands. New people. He travelled south 
+at a fast pace, crossing the massive tundras with no difficulty. In fact, facing
+ the snow and extreme cold of Vinland was no feat for the unrelenting Viking. Bu
+t he pushed further south than any Vikingr before. The journey became more arduo
+us as the temperatures rose, since we are not accustomed to such warm climates. 
+Some of his men decided to settle down. Some died. Some ran. Not letting this st
+op him, Hrosskell continued expanding further with only a small group of remaini
+ng men. This is all I have gathered. I know not what has become of him." He turn
+s his back and fades away before you can ask any more questions.
+> UP
+
+Melville Bay
+The water is a pleasant deep blue but you shiver at the thought of swimming in i
+t. The wide open bay area offers no protection from the biting wind. You notice 
+a sailboat in the distance towards the north along with some houses on the shore
+. You wonder about the name of the village.
+
+Sailor is here.
+There is Underwater Viking Ship below.
+> TALK TO SAILOR ABOUT BACK TO PORT
+
+"Right away, sir..."
+
+Port of Jakobshavn
+The small and quiet little port is located on the coast of Disko Bay. The water 
+is strikingly cyan in color. Several sheets of thick ice float in the still bay.
+ You can see an island to the west. A loose group of wooden houses and shacks po
+pulate the general area around the three wharves. Some buildings' smoke stacks p
+uff light smoke in the air. You see a fisherman gutting cod outside his shack an
+d another fixing a hole in his net. There is a row of hides drying in a long can
+opy with several bulging leather sacks piled up at one end. A cold breeze catche
+s you off guard, you shiver and pull up your collar more.
+
+Fisherman and Sailor are here.
+There is Jakobshavn Post Office to the north, Jakobshavn to the east, and Port M
+aster's Building to the south.
+You may travel to Port of Bilbao (Spain), Port of Pisco (Peru), and Port of Tang
+a (Tanzania).
+> SOUTH
+
+Port Master's Building
+The port master supervises her port from the warmth of her tiny office most days
+. The room is much smaller than it looks from the outside due to the copious num
+ber of drawers covering the walls. There is an old leather and brass diving suit
+ on display in one corner. The stacks of papers on her desk are just about to fa
+ll over making you wonder how it's possible a tiny port like this would require 
+so much management and paperwork.
+
+Port Master is here.
+There is Port of Jakobshavn (Greenland) to the north.
+> GIVE DIVING SUIT TO PORT MASTER
+Diving Suit given to Port Master.
+
+"Did the suit still work? I hope you enjoyed diving, here's your money back."
+> NORTH
+
+Port of Jakobshavn
+The small and quiet little port is located on the coast of Disko Bay. The water 
+is strikingly cyan in color. Several sheets of thick ice float in the still bay.
+ You can see an island to the west. A loose group of wooden houses and shacks po
+pulate the general area around the three wharves. Some buildings' smoke stacks p
+uff light smoke in the air. You see a fisherman gutting cod outside his shack an
+d another fixing a hole in his net. There is a row of hides drying in a long can
+opy with several bulging leather sacks piled up at one end. A cold breeze catche
+s you off guard, you shiver and pull up your collar more.
+
+Fisherman and Sailor are here.
+There is Jakobshavn Post Office to the north, Jakobshavn to the east, and Port M
+aster's Building to the south.
+You may travel to Port of Bilbao (Spain), Port of Pisco (Peru), and Port of Tang
+a (Tanzania).
+> TRAVEL TO PORT OF PISCO
+You pay the standard fare of 200.
+Traveling to Port of Pisco.
+
+                  ----    Chapter VIII: The Guðhjǫrr    ----
+
+Port of Pisco
+The space between the cranes and cargo boats is filled with small, colorful fish
+ing barques.
+
+Nobody is here.
+There is Pisco Post Office to the north, and Cusco to the east.
+You may travel to Port of Jakobshavn (Greenland), Port of Bilbao (Spain), and Po
+rt of Tanga (Tanzania).
+> NORTH
+
+Pisco Post Office
+The post is located in an old colonial building, ten minutes by foot from the po
+rt. Oddly enough there is a black, dusty, telephone on the wall.
+
+Nobody is here.
+There is Port of Pisco (Peru) to the south.
+"Huh, nobody's here." you think to yourself "Is that a phone? I wonder if I coul
+d call Gorka."
+
+> CALL GORKA IBAIGUREN
+Calling Gorka Ibaiguren.
+
+"In Peru? Goodness, how an Earth did you end up there? -- Vikings in South Ameri
+ca? Interesting... You might want to do some research on the subject. I know a r
+enowned historian who might help you out. Her name is Wayna. You should call her
+ as soon as you can to set up a meeting in Cusco."
+> CALL WAYNA
+Calling Wayna.
+
+A friendly voice answers the phone after just three rings. "Hi! I expected your 
+call, Gorka contacted me earlier today. If you leave Pisco now, you'll be in Cus
+co in four hours- I'll be waiting for you there."
+> SOUTH
+
+Port of Pisco
+The space between the cranes and cargo boats is filled with small, colorful fish
+ing barques.
+
+Nobody is here.
+There is Pisco Post Office to the north, and Cusco to the east.
+You may travel to Port of Jakobshavn (Greenland), Port of Bilbao (Spain), and Po
+rt of Tanga (Tanzania).
+> EAST
+
+Cusco
+The center of Inca civilization has been home to all Inca emperors and the Sapa 
+Inka before them.
+
+Wayna is here.
+There is Port of Pisco (Peru) to the west.
+> GREET WAYNA
+A surprisingly young woman waves at you from a distance. "Hi!" she yells. You ar
+e at a speaking distance from her in no time. "Let's go sit down and have some c
+offee while we talk." You follow her to a picturesque coffee shop at the end of 
+the street and sit down at a table so small your knees cannot fit underneath it.
+ You opt to sit sideways with your right elbow on the table. Wayna follows your 
+lead. "So, what exactly brings you here?"
+
+Wayna grins. "Why yes, I do know a little something about Vikings in South Ameri
+ca. The legends talk of a hidden temple somewhere near the old city of Ayacucho.
+ It is made of large stone blocks with dozens of little suns carved into each ro
+ck. The altar in the middle of the temple is also carved with Inca symbols that 
+depict the myth of Nina Khillaychuki, Manco Cápac's firesword. Strange, is it no
+t, that the myth describes the temple with such detail, yet no one has been able
+ to find it."
+You can talk to Wayna about Greet.
+> NORTH
+
+Ayacucho
+This city seems quite arid when seen from the air. It is located in a crowded va
+lley with only a few green spots on the outskirts.
+
+Cook is here.
+There is Cusco to the south.
+> TALK TO COOK ABOUT HIDDEN TEMPLES
+
+"Hidden temples? Hidden temples... Yeah, there might be one around here. Maybe. 
+Not very popular with the tourists. Not like they'd know 'bout it. Or that there
+ would be any tourists here. Ever. You are literally the first person I've seen 
+around all day. This here place is dead. Dead I say. And to top it off you're no
+t the ol' man from across the street, but a real tourist. In flesh and blood. Ri
+ght there in fron' o' me. How on Earth did you EVER manage to get lost in this h
+ere lil' village in the middle of exactly nowhere? Ah. Yes. Temples. Right abou'
+ that-a-way just a ways away but not too far. I think. Be sure to bring a flashl
+ight tho'. It's craaazy dark in there. Like pitch black. No light. Nil. Was ther
+e once. Or twice. It makes no sense tho' since it's not like the cave openin' is
+ that small. You should have plenny o' light down there but naaah. Of cooourse n
+ot. That'd be too easy now wouldn't i'. Bu' hey atleast you can't really miss it
+. It's kinda obvious the way that gaping black maw just seems to suck up light l
+ike it's nobody's business. Weird, you know--" you quietly sneak away while the 
+cook still rambles on...
+> TRAVEL TO HIDDEN CAVE
+Traveling to the Hidden Cave.
+
+Hidden Cave
+The cave is very dark and vast. In the middle is an imposing altar.
+
+Inca Ghost and Inca Skeleton Warrior are here and Altar and Sword of Erik the Re
+d can be found in the area.
+There is nowhere to go to.
+You may travel to Ayacucho.
+> SHOOT INCA SKELETON WARRIOR
+You shot Inca Skeleton Warrior dead!
+You found 0 money on Inca Skeleton Warrior's body.
+The impact of the bullet causes the skeleton to explode in a magnificent shower 
+of bones.
+
+> TAKE SWORD OF ERIK THE RED
+Sword of Erik the Red taken.
+> USE ARCHEOLOGICAL TOOLS ON SWORD OF ERIK THE RED
+USE SWORD OF ERIK THE RED ON ALTAR
+These tools are certainly very useful but not on their own. You should consider 
+using them on other items to inspect them with care.
+
+> The sword slides in effortlessly into the hole in the altar. The harder you pu
+sh the further the side of the altar opens. Once the sword is inside the slit up
+ to it's hilt the side of altar is completely open revealing a sword inside. The
+ replica sword is now firmly stuck inside the altar.
+
+> TAKE GUÐHJÖRR
+Guðhjǫrr taken.
+> USE FJÖRSTEINN ON GUÐHJÖRR
+
+                    ----    Chapter X: Engiandlátæv    ----
+
+You have chosen to join the two into one. Perhaps unaware of the consequences. P
+erhaps on purpose. For doing so your life will unchangeably be set upon a path o
+f gods and treachery.
+
+In a brilliant flash of light and an deafening hum the Fjǫrsteinn sets into the 
+slot in the hilt of Guðhjǫrr the two becoming one.
+
+You feel adrenaline rushing through your veins like never before and your heart 
+feels like it's exploding. The sword is burning your hand, but you feel no pain.
+ It's warmth like that of a furnace encompasses your entire being. The blade glo
+ws as if it were on fire. For a moment you fear the metal might melt but you fai
+l to form another thought as your mind goes blank. Your eyes go blind. Your head
+ is filled with a voice louder than anything you have ever heard in your life.
+
+A MORTAL.
+
+I CAN FEEL IT.
+
+I CAN SEE YOUR MIND.
+
+A FRAIL MIND.
+
+YOU.
+
+HOW DARE YOU LAY YOUR HANDS UPON MY WEAPON.
+
+YOU ARE NOT WORTHY.
+
+YOU ARE NOT FIT TO EVEN LOOK UPON SUCH POWER THAT IS WOVEN INTO BÁLBRANDR.
+
+YOU.
+
+A MORTAL.
+
+A HUMAN.
+
+NOT EVEN A JǪTUNN.
+
+BUT A MERE, MORTAL, FRAGILE.
+
+TEMPORARY.
+
+SHELL OF EXISTENCE.
+
+YOU.
+
+YOU HAVE MY BÁLBRANDR.
+
+YOU CANNOT EVEN USE IT.
+
+YOU CANNOT EVEN COMPREHEND ITS TRUE POWER.
+
+YOU.
+
+I WILL.
+
+END.
+
+YOUR.
+
+SHORT.
+
+INSIGNIFICANT.
+
+EXISTENCE...
+
+
+Game not saved.
+
+Quitting game.

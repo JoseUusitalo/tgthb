@@ -1,0 +1,73 @@
+alias	cmd	dsc
+att	attack	att <person> | Attack target with the currently held weapon.
+attack	attack	attack <person> | Attack target with the currently held weapon.
+buy	buy	Display a list of buyable items. Use buy <item> to exchange money for an item.
+c	talk	c <person> about <topic> | Talk to a person about a topic.
+call	call	call <person> | Call a person with a telephone if they are reachable with a telephone.
+chat	talk	chat <person> about <topic> | Talk to a person about a topic.
+d	drop	d <item> | Drop an item from your inventory into the current area.
+down	down	Move down.
+drop	drop	drop <item> | Drop an item from your inventory into the current area.
+dw	down	Move down.
+e	east	Move east.
+east	east	Move east.
+ex	examine	ex <item/location/person> | Take closer look at an item, location, or a person.
+examine	examine	examine <item/location/person> | Take closer look at an item, location, or a person.
+f	shoot	f <person> | Shoot the currently equipped ranged weapon at a person.
+fire	shoot	fire <person> | Shoot the currently equipped ranged weapon at a person.
+g	give	g <item> to <person> | Give a person an item from your inventory.
+get	take	get <item> | Take an item from the current area to your inventory.
+give	give	give <item> to <person> | Give a person an item from your inventory.
+go	travel	go <location> | Travel to a special location not available with the usual directional commands. 
+greet	greet	greet <person> | Greet a person.
+gt	travel	gt <location> | Travel to a special location not available with the usual directional commands. 
+h	greet	h <person> | Greet a person.
+hello	greet	hello <person> | Greet a person.
+help	help	Display a full command list. Use help <cmd> to display information about a specific command.
+i	inventory	Show the player inventory.
+inv	inventory	Show the player inventory.
+inventory	inventory	Show the player inventory.
+l	look	Gives a description of the area around the player.
+load	load	Load the saved game.
+look	look	Gives a description of the area around the player.
+n	north	Move north.
+ne	northeast	Move north-east.
+neast	northeast	Move north-east.
+north	north	Move north.
+northe	northeast	Move north-east.
+northeast	northeast	Move north-east.
+northw	northwest	Move north-west.
+northwest	northwest	Move north-west.
+nw	northwest	Move north-west.
+nwest	northwest	Move north-west.
+open	use	open <item> | Open the item if it can be opened.
+quit	quit	Quit the game.
+read	use	read <item> | Read the item if it can be read.
+rent	rent	rent <item/object> | Exchange money to temporarily gain access to an item or an object. You get your money back when you return an item, but not when returning an object.
+restart	restart	Recreate database and restore data into the initial state. This deletes any saved changes restarting the game from the beginning.
+s	south	Move south.
+save	save	Save the game.
+say	say	say <words> | Say something aloud, not directed to anyone.
+se	southeast	Move south-east.
+seast	southeast	Move south-east.
+shoot	shoot	shoot <person> | Shoot the currently equipped ranged weapon at a person.
+south	south	Move south.
+southe	southeast	Move south-east.
+southeast	southeast	Move south-east.
+southw	southwest	Move south-west.
+southwest	southwest	Move south-west.
+speak	talk	speak <person> about <topic> | Talk to a person about a topic.
+sw	southwest	Move south-west.
+swest	southwest	Move south-west.
+t	take	t <item> | Take an item from the current area to your inventory.
+take	take	take <item> | Take an item from the current area to your inventory.
+talk	talk	talk <person> <topic> | Talk to a person about a topic.
+tips	tips	Display the developer tips.
+travel	travel	travel <location> | Travel to a special location not available with the usual directional commands. 
+tt	travel	tt <location> | Travel to a special location not available with the usual directional commands. 
+u	use	u <item> on <item/object> | A general purpose command to perform an action with an item. Some items that are in your inventory can be used in combination with other items in the world.
+up	up	Move up.
+use	use	use <item> on <item/object> | A general purpose command to perform an action with an item such as opening, reading, and others. Some items that are in your inventory can be used in combination with other items in the world.
+w	west	Move west.
+west	west	Move west.
+x	examine	x <item/location/person> | Take closer look at an item, location, or a person.

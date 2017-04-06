@@ -1,0 +1,42 @@
+charid	locid	name	hp	att	def	val	dsc
+bugeorgi	buairpor	Georgi Borisov	100	10	5	100	The jolly driver can take you from Burgas to Nessebar and back. He is a young boxing enthusiast that never lacks things to say.
+bukids	bumoback	Group of Children	100	10	5	5	These loud, joyful youths love running around the backyard.
+bumonica	bueleusa	Monica	100	10	5	30	Monica is an elderly woman that looks after the Eleusa Monastery, even though she is not paid to do so. She is very observant of everything going on in her neighborhood - she might provide you with interesting information.
+grdead	grship	Skeleton	100	0	0	0	The remains are frail from old age.
+grfisher	grport	Fisherman	100	10	5	5	The fisherman lives in Jakobshavn.
+grinnkee	grinn1	Innkeeper	100	10	5	240	The innkeep runs one of the few accomodations in southern Greenland.
+grjens	grjensho	Jens	100	10	5	4000	This private collector of viking artifacts living in Jakobshavn.
+grkolbio	\N	Ghost of Kolbiorn Vílgeirson	150	10	50	0	The viking chief drowned with his crew when his ship sank.
+grlinnor	\N	White Linnormr	20	20	5	0	You have just come face to face with a white two-legged lizard with nasty looking teeth and a long tail. It is not much larger than a small dog but it is surprisingly quick on its feet.
+grlone	grinn1	Lone Patron	100	10	5	4000	The lone patron is a regular at the Jakobshavn Inn.
+grportma	grmaster	Port Master	100	10	5	70	The port master keeps track of anything and everything that goes on in her port.
+grpostw	grpost	Post Office Worker	100	10	5	30	The young boy runs the day-to-day operations in Jakobshavn’s only post office.
+grsailor	grport	Sailor	100	10	5	500	The experienced sailor will take you to the world’s end, for a price.
+grstore	grstore	General Store Worker	100	10	5	4600	The worker can provide you with various items which may or may not be useful on your travels.
+grvillag	grjakob	Villager	100	10	5	10	You wonder if he's mute- whatever you say to him, he remains unresponsive.
+grvolur	grlair2	Vǫlur	100	10	5	0	Her flowing blonde hair fair skin contrast with the pitch black symbols painted on her face. Her glazed blue eyes make you uneasy. This young woman would look ordinary if not for the environment and her garb. She is dressed in what appears to be various animal skins decorated with strange symbols. Apart from the necklace made from animal bones and wood the shaman doesn't have any jewelry. She appears to think of wolves as her children.
+grwolf	grfornw	Tribal Wolf	200	30	15	0	The wolf is fairly large with light gray fur. It would look ordinary if not for the light blue markings on it's side. "Child" is written on it's fur in Old Norse.
+grwolf2	grfornw	Tribal Wolf	200	30	15	0	The wolf is fairly large with light gray fur. It would look ordinary if not for the light blue markings on it's side. "Child" is written on it's fur in Old Norse.
+inbusdri	inbussta	Abhijishya	100	10	5	100	The Nepalese bus driver never stops smiling.
+inrob1	intrrest	Robber	100	0	0	120	The masked men are wearing all black.
+inrob2	intrrest	Robber	100	0	0	120	The masked men are wearing all black.
+inrob3	intrrest	Robber	100	0	0	120	The masked men are wearing all black.
+inshopke	nehikesh	Shopkeeper	100	10	5	50	The large shopkeeper sells hiking equipment and various other items.
+intimast	intrains	Ticket Master	100	0	0	120	The senior that sells train tickets speaks broken English.
+nesherpa	nejaray	Gajadhar	100	10	5	50	The Sherpa is idly rocking on a chair in front of a house.
+neyeti	\N	Yeti	150	20	30	0	Trouble staring you in the eyes- the fearsome, furry, man-like mountain creature towers over you.
+pecook	pevillag	Cook	100	10	5	200	The street cook is grilling food that makes your mouth water.
+peghost	pecave	Inca Ghost	30	5	50	0	The spirit of a powerful Inca shaman floats in front of you. He tore his soul out of his body to gain immortality.
+peskele	pecave	Inca Skeleton Warrior	120	10	10	0	This warrior of the Inca people pledged to protect his civilisation's treasures with his life.
+pewayna	\N	Wayna	100	10	5	300	This Inca expert lives in Cuzco.
+player	sproom3	Andrea Álvarez	100	10	5	10	You are a young archaeology student currently interning at Museo de la Bellas Artes.
+spgorka	spdiroff	Gorka Ibaiguren	100	10	5	320	Gorka has been the director of the Bellas Artes museum for several years now.
+tachief	tachiefh	Mwanza Chief	100	10	5	20	The chief has special knowledge of the surrounding area.
+taneema	taoutair	Neema	100	10	5	200	This woman is an experienced guide familiar with the terrain in Tanzania. You should not try to travel the savannah on your own.
+tapopo	\N	Popobawa	40	15	10	0	A large one-eyed bat creature.
+tarhino	tanatr3	Emela-ntouka	250	40	30	0	This strange rhinoceros-like creature has a long and thick tail and particularly nasty looking set of teeth.
+tifisher	tichen	Fisherman	100	10	5	20	The fisherman will take you up Pum Qu after a little negotiating.
+timonk1	tisakpor	Monk	100	10	5	0	The Buddhist monk lives in the Sakya Monastery and leads a peaceful life.
+timonk2	tioutmon	Monk	100	10	5	0	This monk is secluded from life- he lives with only a few other compatriotes in a small-scale monastery.
+tiyeti	timoplat	Yeti	150	20	30	5	Trouble staring you in the eyes- the fearsome, furry, man-like mountain creature towers over you.
+tizlatin	titserom	Zlatin Panayotov	100	10	5	100	The 142 year old Bulgarian adventurer lives in a secluded monastery, where he is known as Tsering. He possesses the mythical gem from the sword of the Norse god of fire, which has allowed him to live far longer than a normal human being.

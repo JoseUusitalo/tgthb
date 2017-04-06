@@ -1,0 +1,10 @@
+load data local infile 'c:\\command.tsv' into table command fields terminated by '	' (alias,cmd,dsc);
+load data local infile 'c:\\text.tsv' into table text fields terminated by '	' (txtid,txt);
+load data local infile 'c:\\save.tsv' into table save fields terminated by '	' (var,val);
+load data local infile 'c:\\location.tsv' into table location fields terminated by '	' (locid,name,vis,dsc);
+load data local infile 'c:\\itemtype.tsv' into table itemtype fields terminated by '	' (typeid,name,att,def,hp,val,dsc);
+load data local infile 'c:\\item.tsv' into table item fields terminated by '	' (itemid,typeid,locid);
+load data local infile 'c:\\people.tsv' into table people fields terminated by '	' (charid,locid,name,hp,att,def,val,dsc);
+load data local infile 'c:\\dialogue.tsv' into table dialogue fields terminated by '	' (dlgid,charid,topic,txt);
+load data local infile 'c:\\inventory.tsv' into table inventory fields terminated by '	' (invid,charid,item1,item2,item3,item4,item5,item6,item7,item8,item9,item10);
+load data local infile 'c:\\world.tsv' into table world fields terminated by '	' (fromid,n,ne,e,se,s,sw,w,nw,up,down,spec1,spec2,spec3,spec4,spec5,air1,air2,air3,air4,air5,sea1,sea2,sea3,sea4,sea5);
